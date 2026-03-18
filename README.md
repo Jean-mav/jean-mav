@@ -64,4 +64,4 @@ Je me prépare à travailler en **freelance en analyse de données dans les 3 pr
 ## Me contacter
 
 - [LinkedIn](www.linkedin.com/in/jean-mav-b572a4337)
-- Email : [mav.analyste@gmail.com](mailto:mav.analyste@gmail
+- Email : [mav.analyste@gmail.com](mailto:mav.analyste@gmail)
