@@ -1,8 +1,7 @@
-# Jean MAV - Portfolio
-Data Analyst certifié, Passionné par la transformation des données en décisions concrètes
+# Data Analyst
 
 Bienvenue sur mon portfolio  
-Je suis un analyste de données basé en RDC, avec une approche orientée **business** : je ne me contente pas d’analyser des données, je cherche à résoudre des problèmes réels et à générer de la valeur.
+Je suis un Data Analyst certifié, Passionné par la transformation des données en décisions concrète avec une approche orientée **business** : je ne me contente pas d’analyser des données, je cherche à résoudre des problèmes réels et à générer de la valeur.
 
 ---
 
