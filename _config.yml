@@ -1,6 +1,6 @@
 title : "Jean MAV"
 logo : img/moi.jpg
-description : "Data Analyst"
-show_downloads : true
+#description : "Data Analyst"
+#show_downloads : true
 theme : jekyll-theme-minimal
 lang : fr
