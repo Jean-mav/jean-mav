@@ -33,7 +33,7 @@ Je suis un analyste de données basé en RDC, avec une approche orientée **busi
 
 📌 **Objectif** : Analyser le comportement des utilisateurs pour aider une entreprise de vélos à convertir les utilisateurs occasionnels en abonnés.
 
-🛠️ **Outils utilisés** : R (`tidyverse` : `lubridate`, `ggplot2`, etc.) 
+🛠️ **Outils utilisés** : R (`tidyverse` : `lubridate`, `ggplot2`, etc.) <br> 
 📊 **Résultats clés** :
 - Identification des différences de comportement entre membres et non-membres
 - Recommandations marketing basées sur les données
